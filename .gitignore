@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+node_modules/
+dist/
+build/
+.coverage
+.pytest_cache/
+.vite/
